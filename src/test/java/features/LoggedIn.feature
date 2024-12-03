@@ -1,5 +1,5 @@
 Feature: LoggedIn user view
-#  https://www.youtube.com/watch?v=kPhpJzlnUTs
+
 #  https://allurereport.org/docs/cucumberjvm/
 #  npm install -g allure-commandline --save -dev
 #  allure generate allure-results --clean -o allure-report
